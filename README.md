@@ -1,4 +1,4 @@
-### Here are new projects and topics that I am learning about! 👋
+### Ready to Learn! 👋
 
 Here are some ideas to get you started:
 
