@@ -1,6 +1,6 @@
 ### Ready to Learn! 👋
 
-- 🔭 I’m currently working on ... Web Development
+- 🔭 I’m currently working on ... Sudoku Solver using Python
 - 🌱 I’m currently learning ... Web Development / Discrete Math
 - 👯 I’m looking to collaborate on ... Mobile App Development
 - 🤔 I’m looking for help with ... Mobile App Development
