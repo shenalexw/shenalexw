@@ -1,7 +1,5 @@
 ### Ready to Learn! 👋
 
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on ... Web Development
 - 🌱 I’m currently learning ... Web Development / Discrete Math
 - 👯 I’m looking to collaborate on ... Mobile App Development
