@@ -8,4 +8,3 @@
 - 📫 How to reach me: ... shenalexw@gmail.com
 - 😄 Pronouns: ... He/Him
 - ⚡ Fun fact: ... I play Tennis and Cook
--->
