@@ -3,7 +3,8 @@
 ### Welcome to My Github.
 
 #### Projects Currently In-Progress:
-- [Portfolio Website](https://github.com/shenalexw/shenalexw.github.io)
+- [The Sweetu Project](https://github.com/TheSweetuProject)
+- [The Gains Project](https://github.com/TheGainsProject)
 
 #### Classes
 - Introduction to Computer Science
