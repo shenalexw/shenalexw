@@ -13,9 +13,9 @@
 - Assembly Language
 - Operating Systems
 - Analysis of Algorithems 
-- Introduction to Databases (Enrolled)
-- Introduction to Networks (Enrolled)
-- Mobile Application Development (Enrolled)
+- Introduction to Databases
+- Introduction to Networks
+- Mobile Application Development
 
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=shenalexw&theme=dark&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
