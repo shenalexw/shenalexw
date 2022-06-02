@@ -2,9 +2,6 @@
 
 ### Welcome to My Github.
 
-#### Projects Currently In-Progress:
-- [The Sweetu Project](https://github.com/TheSweetuProject)
-
 #### Classes
 - Introduction to Computer Science
 - Discrete Structures
@@ -16,6 +13,8 @@
 - Introduction to Databases
 - Introduction to Networks
 - Mobile Application Development
+- Software Engineering I
+- Cloud Application Development
 
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=shenalexw&theme=dark&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
