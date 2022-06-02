@@ -3,7 +3,7 @@
 ### Welcome to My Github.
 
 #### Classes
-- Introduction to Computer Science
+- Introduction to Computer Science I & II
 - Discrete Structures
 - Web Development
 - Data Structures
